@@ -1,0 +1,11 @@
+.todo__list {
+    display: flex;
+    border: 2px solid greenyellow;
+    padding: 5px;
+    margin: 5px;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.button__align {
+    align-self: center;
+}
